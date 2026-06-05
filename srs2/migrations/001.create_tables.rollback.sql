@@ -1,0 +1,1 @@
+DROP SCHEMA IF EXISTS water_shop CASCADE;

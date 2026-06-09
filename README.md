@@ -2,6 +2,7 @@
 
 ## SRS 1:  Diagrams-as-a-code
 ![contain] (./srs2/graphviz(2).svg)
+![SVG Image] (srs2/graphviz(2).svg)
 
 ---
 1. Перейдите на сайт:  

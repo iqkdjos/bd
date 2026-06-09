@@ -1,7 +1,9 @@
 # Инструкция по выполению первой самостоятельной работе
 
 ## SRS 1:  Diagrams-as-a-code
+[contain] (.srs2/graphviz(2).svg)
 
+---
 1. Перейдите на сайт:  
    [https://dreampuf.github.io/GraphvizOnline/](https://dreampuf.github.io/GraphvizOnline/)
 2. Вставьте ваш код в редактор на сайте.

@@ -1,7 +1,6 @@
 # Инструкция по выполению первой самостоятельной работе
 
 ## SRS 1:  Diagrams-as-a-code
-https://github.com/iqkdjos/bd/blob/main/srs2/graphviz%20(2).svg
 ![](https://github.com/iqkdjos/bd/blob/main/srs2/graphviz%20(2).svg)
 
 ---

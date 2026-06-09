@@ -1,7 +1,7 @@
 # Инструкция по выполению первой самостоятельной работе
 
 ## SRS 1:  Diagrams-as-a-code
-![bg contain] (./srs2/graphviz(2).svg)
+![contain] (./srs2/graphviz(2).svg)
 
 ---
 1. Перейдите на сайт:  

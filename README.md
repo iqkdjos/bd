@@ -51,7 +51,7 @@ pip install yoyo-migrations
 
 - пароль от вашей БД
 - название БД
-- localhost
+- port
 
 ### Папка `migrations`
 
